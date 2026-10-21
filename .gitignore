@@ -1,0 +1,16 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Local and secret files
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+
+# OS files
+.DS_Store
+Thumbs.db
