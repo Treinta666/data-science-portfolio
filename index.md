@@ -1,9 +1,9 @@
----
+﻿---
 layout: default
 title: Data Science Portfolio
 ---
 
-# YOUR NAME
+# Li Hongda
 
 ## Data Science Portfolio
 
@@ -11,7 +11,7 @@ I am a data science student interested in turning messy questions into clear, re
 
 > **Featured project at a glance:** Penguin species can be classified from four body measurements with 97.1% leave-one-out accuracy. The main limitation is that the result comes from one dataset and has not been validated on an independent population.
 
-[View my project repository](https://github.com/YOUR-GITHUB-USERNAME/data-science-project){: .btn .btn--primary}
+[View my project repository](https://github.com/Treinta666/data-science-project){: .btn .btn--primary}
 
 ## Technical skills
 
@@ -37,7 +37,7 @@ The visualization shows that Gentoo penguins have relatively shallow bills and a
 
 I used four measurements and a leave-one-out nearest-centroid classifier. The model reached **97.1% accuracy** on 342 complete cases. All Gentoo penguins were classified correctly; the ten errors were split evenly between Adelie and Chinstrap. The main limitation is that the model was evaluated on one public dataset from the Palmer Archipelago, so its accuracy may not transfer to other populations.
 
-[Read the code and full documentation](https://github.com/YOUR-GITHUB-USERNAME/data-science-project)
+[Read the code and full documentation](https://github.com/Treinta666/data-science-project)
 
 ## What this project demonstrates
 
@@ -50,4 +50,5 @@ I used four measurements and a leave-one-out nearest-centroid classifier. The mo
 ## Reproducibility
 
 The repository includes the Python analysis script, the public-domain dataset, a requirements file, generated result tables, and instructions for creating a virtual environment and running the analysis.
+
 

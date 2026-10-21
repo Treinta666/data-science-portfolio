@@ -1,4 +1,4 @@
-# Data Science Portfolio
+﻿# Data Science Portfolio
 
 This repository hosts a GitHub Pages portfolio built from `index.md` in the repository root.
 
@@ -10,10 +10,11 @@ This repository hosts a GitHub Pages portfolio built from `index.md` in the repo
 
 ## Publishing
 
-In **Settings → Pages**, choose **Deploy from a branch**, select `main`, and select `/ (root)`.
+In **Settings 鈫?Pages**, choose **Deploy from a branch**, select `main`, and select `/ (root)`.
 
 The expected URL is:
 
 ```text
-https://YOUR-GITHUB-USERNAME.github.io/data-science-portfolio/
+https://Treinta666.github.io/data-science-portfolio/
 ```
+
