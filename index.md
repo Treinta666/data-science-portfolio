@@ -9,6 +9,8 @@ title: Data Science Portfolio
 
 I am a data science student interested in turning messy questions into clear, reproducible analyses. My work focuses on exploratory data analysis, careful data cleaning, statistical reasoning, and communicating findings through accessible visualizations.
 
+> **Featured project at a glance:** Penguin species can be classified from four body measurements with 97.1% leave-one-out accuracy. The main limitation is that the result comes from one dataset and has not been validated on an independent population.
+
 [View my project repository](https://github.com/YOUR-GITHUB-USERNAME/data-science-project){: .btn .btn--primary}
 
 ## Technical skills
@@ -48,3 +50,4 @@ I used four measurements and a leave-one-out nearest-centroid classifier. The mo
 ## Reproducibility
 
 The repository includes the Python analysis script, the public-domain dataset, a requirements file, generated result tables, and instructions for creating a virtual environment and running the analysis.
+
